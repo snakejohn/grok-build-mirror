@@ -1,48 +1,48 @@
 {
   "channel": "stable",
-  "version": "1.0.88",
-  "fetched_at": "2026-11-17T07:52:40Z",
+  "version": "1.0.89",
+  "fetched_at": "2026-11-18T07:25:17Z",
   "source": "https://storage.googleapis.com/grok-build-public-artifacts/cli",
   "files": [
     {
       "platform": "windows-x86_64",
-      "filename": "grok-1.0.88-windows-x86_64.exe",
-      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.88-windows-x86_64.exe",
-      "size": 186911376,
-      "sha256": "1bbfc010cc38f9578157673381b4f6efb7664c48b9c8031a833b49d078d2b560",
-      "md5": "4d658f5fbe3ed37d06687151b94acfef"
+      "filename": "grok-1.0.89-windows-x86_64.exe",
+      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.89-windows-x86_64.exe",
+      "size": 186996880,
+      "sha256": "24384a5a03d61d2c45416ef3d535bff5379fde4844b87a52c1bb882686e39469",
+      "md5": "edf7f741b1128a57ea93d7cbc67d7ff0"
     },
     {
       "platform": "linux-x86_64",
-      "filename": "grok-1.0.88-linux-x86_64",
-      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.88-linux-x86_64",
-      "size": 207586272,
-      "sha256": "a33013fe73ea63d2f18df636f90f84060a88712f9932b77cda0447dd83b4bfe5",
-      "md5": "8cc7086ce4a4ddfb7b2531d232406a64"
+      "filename": "grok-1.0.89-linux-x86_64",
+      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.89-linux-x86_64",
+      "size": 207850592,
+      "sha256": "a3dface51d9bdc71fd121e0481dd02d9b46a721f7a6b892f756480e9666eba1f",
+      "md5": "eaceb13569ff44534c366445be5be520"
     },
     {
       "platform": "linux-aarch64",
-      "filename": "grok-1.0.88-linux-aarch64",
-      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.88-linux-aarch64",
-      "size": 177315832,
-      "sha256": "55f285af4b68fe53cc2f45b00a4392c8c4871509671e0185e0237804194ccf29",
-      "md5": "64e1887f29df6c725a634e5b9c9366fc"
+      "filename": "grok-1.0.89-linux-aarch64",
+      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.89-linux-aarch64",
+      "size": 177313192,
+      "sha256": "641b3e500d6420d3b07117a2c857cceeb82b33f4b53d23a95895bd76a4773f96",
+      "md5": "599bd78913c88ebcbaf3fb166e4d6dfc"
     },
     {
       "platform": "macos-x86_64",
-      "filename": "grok-1.0.88-macos-x86_64",
-      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.88-macos-x86_64",
-      "size": 205060992,
-      "sha256": "4ec4d61a50d1aff49139bc0c84878d0b37e9b62949eb45c561fd57ed52305739",
-      "md5": "54b341efe14c317c9a4ab6b3a91767c8"
+      "filename": "grok-1.0.89-macos-x86_64",
+      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.89-macos-x86_64",
+      "size": 205200864,
+      "sha256": "3103ba39e3bd7f9c6f55e1b4a61219e7d49736f334e97527a49f73aaf5743d8d",
+      "md5": "dd0487c5d59cee2144019cffe2b3b1a8"
     },
     {
       "platform": "macos-aarch64",
-      "filename": "grok-1.0.88-macos-aarch64",
-      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.88-macos-aarch64",
-      "size": 190316800,
-      "sha256": "b0185133b3362c406069653e40c9864876342fd6d667555e0438f7f26a1f785e",
-      "md5": "99dba407e6abbd24dbdb323be3e847e8"
+      "filename": "grok-1.0.89-macos-aarch64",
+      "source_url": "https://storage.googleapis.com/grok-build-public-artifacts/cli/grok-1.0.89-macos-aarch64",
+      "size": 190386368,
+      "sha256": "f149e6ad81339491f8d6e0c5fd712f2813042c0dfbb595c28d5767e4567c17a1",
+      "md5": "4d5e4e8c57c47f11777681fb4a5e0dd0"
     }
   ]
 }
